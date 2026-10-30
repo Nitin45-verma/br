@@ -1,0 +1,13 @@
+.sidebar-container {
+  background-color: #0f172a; /* Dark background */
+  color: #f8fafc;
+}
+
+h1.heading {
+  color: #fbbf24; /* Golden Heading */
+  font-weight: 700;
+}
+
+p.description {
+  color: #cbd5e1; /* Soft Gray Text */
+}
