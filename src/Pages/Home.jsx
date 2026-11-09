@@ -8,7 +8,6 @@ const Home = () => {
         <h1 className='text-9xl font-black mx-10'>S.kumar</h1>
         <h1 className='text-8xl font-medium ml-30 '>Bride Entry</h1>
         <h1 className='text-8xl  ml-50 '>Book portal</h1>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio, quam magnam consequuntur sequi officia esse quia, libero sunt itaque deleniti, mollitia ullam possimus. Accusantium, hic sint consequatur veritatis doloribus voluptate?</p>
 
 
         <div className="flex gap-20 mx-10"><button class="rounded-full bg-sky-500/90">Save Changes</button>
